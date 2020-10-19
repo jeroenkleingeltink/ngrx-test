@@ -1,0 +1,16 @@
+{
+  "shopping": [
+    {
+      "id": 1,
+      "name": "Zero Coke"
+    },
+    {
+      "id": "62",
+      "name": "ham"
+    },
+    {
+      "id": "839",
+      "name": "croissant"
+    }
+  ]
+}
